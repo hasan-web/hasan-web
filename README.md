@@ -31,9 +31,9 @@ I'm passionate about building scalable applications and solving complex problems
 * Git
 
 ## 🚀 Experience
-4+ years as a Full Stack Developer
-3 years of startup experience
-Expertise spans the entire development lifecycle, from architecting solutions to implementing containerized deployments on AWS.
+* Experienced in designing software architecture, implementing database solutions, and deploying applications on cloud platforms. Passionate about creating efficient, scalable, and user-friendly solutions.
+* Expertise spans the entire development lifecycle, from architecting solutions to implementing containerized deployments on AWS.
+
 ## 🌟 What I Bring to the Table
 Strong problem-solving skills
 Ability to work in fast-paced environments
