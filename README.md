@@ -33,11 +33,7 @@ I'm passionate about building scalable applications and solving complex problems
 ## 🚀 Experience
 4+ years as a Full Stack Developer
 3 years of startup experience
-Proficient in developing and deploying web and mobile applications
-Experienced in working with Agile methodologies
-Generated and managed Docker images for React applications
-Designed software architectures using Lucidchart
-
+Expertise spans the entire development lifecycle, from architecting solutions to implementing containerized deployments on AWS.
 ## 🌟 What I Bring to the Table
 Strong problem-solving skills
 Ability to work in fast-paced environments
