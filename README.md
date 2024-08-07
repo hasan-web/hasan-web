@@ -6,33 +6,33 @@ Hello 👋! I'm Hasan Ali, a Full Stack Developer with over 4 years of professio
 I'm passionate about building scalable applications and solving complex problems. My experience spans both frontend and backend development, with a strong focus on creating responsive and user-friendly web and mobile applications.
 
 ## 🛠 Technical Skills
-# Frontend
-Angular
-React
+ * Frontend
+* Angular
+* React
 
-# Mobile Development
-Ionic
-Cordova
-React Native
+* Mobile Development
+* Ionic
+* Cordova
+* React Native
 
-# Backend
-Node.js
-Express.js
-MySQL
-PostgreSQL
+* Backend
+* Node.js
+* Express.js
+* MySQL
+* PostgreSQL
 
-# Cloud Services
-AWS (Amazon Web Services)
-EC2
-RDS
-Elastic Beanstalk
-Cognito
+* Cloud Services
+* AWS (Amazon Web Services)
+* EC2
+* RDS
+* Elastic Beanstalk
+* Cognito
 
-# DevOps and Deployment
-Docker
-Cloudflare
-Version Control
-Git
+* DevOps and Deployment
+* Docker
+* Cloudflare
+* Version Control
+* Git
 
 ## 🚀 Experience
 4+ years as a Full Stack Developer
