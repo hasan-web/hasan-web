@@ -1,4 +1,3 @@
-Hasan Ali
 Hello 👋! I'm Hasan Ali, a Full Stack Developer with over 4 years of professional experience, including 3 years in the startup ecosystem.
 
 💼 Professional Summary
